@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "bac305a2bdfd01bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "000f1a889bb744f2",
+        "type": "tabs",
+        "dimension": 36.45584725536993,
+        "children": [
+          {
+            "id": "318c150b6172a523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bands/Allister.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b24df945bdb3a7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/When Good Friends Tell Bad Lies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "713fb0ecf67c72b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TV/Neon Genesis Evangelion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43276a7d375fee5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bands/ELLEGARDEN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db80325b5c23473e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/RIOT ON THE GRILL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2a2937791593aad7",
+        "type": "tabs",
+        "dimension": 63.544152744630075,
+        "children": [
+          {
+            "id": "6ac40af3139e133a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4662c7efeb699a",
+    "type": "split",
+    "children": [
+      {
+        "id": "492699651b0a6a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc4180fb5c63775",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc9b7620177ed4ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57c177de8b61466e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8143543daa0d3764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "920b5fe049c9cce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ee23f5580cda06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2740c9e16f63f840",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Albums/When Good Friends Tell Bad Lies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7375342353068e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Albums/When Good Friends Tell Bad Lies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0236df7e7360d3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28622f395b0c7c97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Albums/When Good Friends Tell Bad Lies.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "b24df945bdb3a7d5",
+  "lastOpenFiles": [
+    "secret.gif",
+    "2d3vl9.gif",
+    "Albums/Last Stop Suburbia.md",
+    "Albums/When Good Friends Tell Bad Lies.md",
+    "Albums/RIOT ON THE GRILL.md",
+    "Albums/SYNCHRONIZED ROCKERS.md",
+    "Bands/Allister.md",
+    "TV/Neon Genesis Evangelion.md",
+    "Main Page.md",
+    "mtatyee5.bmp",
+    "qw5jh7gt.bmp",
+    "Bands/The Get Go.md",
+    "Bands/ELLEGARDEN.md",
+    "Untitled",
+    "TV/Gainax.md",
+    "TV/FLCL.md",
+    "Bands/The Pillows.md",
+    "People/Takeshi Hosomi.md",
+    "Bands/MONOEYES.md",
+    "People/Scott Murphy.md",
+    "Bands/The Hippos.md",
+    "People/Ariel Rechtshaid.md",
+    "TV",
+    "Bands/Weezer.md",
+    "Bands/The Mighty Mighty Bosstones.md",
+    "Bands/Showoff.md",
+    "Bands/Scott & Rivers.md",
+    "Bands/Hot Alice.md",
+    "usa.md",
+    "Kyle Lewis.md",
+    "12euf2pw.bmp",
+    "Tim Rogner.md",
+    "ELLEGARDEN Discography.canvas",
+    "Albums",
+    "People",
+    "Untitled 1.canvas",
+    "Bands"
+  ]
+}
