@@ -6,75 +6,26 @@
       {
         "id": "000f1a889bb744f2",
         "type": "tabs",
-        "dimension": 36.45584725536993,
+        "dimension": 39.73747016706444,
         "children": [
           {
-            "id": "318c150b6172a523",
+            "id": "2aa2f5a468e4fce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bands/Allister.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b24df945bdb3a7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Albums/When Good Friends Tell Bad Lies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "713fb0ecf67c72b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TV/Neon Genesis Evangelion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43276a7d375fee5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bands/ELLEGARDEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db80325b5c23473e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Albums/RIOT ON THE GRILL.md",
+                "file": "Bands/SpecialThanks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2a2937791593aad7",
         "type": "tabs",
-        "dimension": 63.544152744630075,
+        "dimension": 60.26252983293556,
         "children": [
           {
             "id": "6ac40af3139e133a",
@@ -159,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Albums/When Good Friends Tell Bad Lies.md",
+                "file": "Bands/SpecialThanks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Albums/When Good Friends Tell Bad Lies.md",
+                "file": "Bands/SpecialThanks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Albums/When Good Friends Tell Bad Lies.md"
+                "file": "Bands/SpecialThanks.md"
               }
             }
           }
@@ -221,16 +172,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b24df945bdb3a7d5",
+  "active": "6ac40af3139e133a",
   "lastOpenFiles": [
+    "Albums/Rock Against Bush.md",
+    "Other/Fat Wreck Chords.md",
+    "TV/Wolf Girl and Black Prince.md",
+    "Bands/Lagwagon.md",
+    "Rock Against Bush.md",
+    "Bands/SpecialThanks.md",
+    "Bands/Allister.md",
+    "TV/Neon Genesis Evangelion.md",
+    "Albums/When Good Friends Tell Bad Lies.md",
     "secret.gif",
     "2d3vl9.gif",
     "Albums/Last Stop Suburbia.md",
-    "Albums/When Good Friends Tell Bad Lies.md",
     "Albums/RIOT ON THE GRILL.md",
     "Albums/SYNCHRONIZED ROCKERS.md",
-    "Bands/Allister.md",
-    "TV/Neon Genesis Evangelion.md",
     "Main Page.md",
     "mtatyee5.bmp",
     "qw5jh7gt.bmp",
@@ -249,12 +206,7 @@
     "Bands/Weezer.md",
     "Bands/The Mighty Mighty Bosstones.md",
     "Bands/Showoff.md",
-    "Bands/Scott & Rivers.md",
-    "Bands/Hot Alice.md",
-    "usa.md",
-    "Kyle Lewis.md",
     "12euf2pw.bmp",
-    "Tim Rogner.md",
     "ELLEGARDEN Discography.canvas",
     "Albums",
     "People",
